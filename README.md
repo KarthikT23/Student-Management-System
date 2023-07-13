@@ -1,7 +1,7 @@
 # Student-Management-System
 A simple interface for maintenance of student information for colleges. Written in C
 # Objectives
-• Make all the system computerized.
+Make all the system computerized.
 • Reduce time consumption.
 • Reduce error scope.
 • All system managements are automated.
